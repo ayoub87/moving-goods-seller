@@ -49,7 +49,7 @@ A complete inventory management system for moving goods sellers with multilingua
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[ayoub87]/moving-goods-seller.git
+   git clone https://github.com/ayoub87/moving-goods-seller.git
    cd moving-goods-seller
    ```
 
@@ -214,10 +214,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help, please:
 
 1. Check the [documentation](README.md)
-2. Open an [issue](https://github.com/[ayoub87]/moving-goods-seller/issues)
+2. Open an [issue](https://github.com/ayoub87/moving-goods-seller/issues)
 3. Join our community discussions
 
 ---
 
-**Made with ❤️ by [Youbie]**
+**Made with ❤️ by Youbie**
 ```
